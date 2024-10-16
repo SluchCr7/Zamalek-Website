@@ -1,0 +1,24 @@
+mode 1 :- 
+
+primary color :- #ffffff
+secondary color :- #bf0603
+third color :- #000814
+
+mode 2 :- 
+
+primary color :- #000000
+secondary color :- #fdb833
+third color :- #e9eaec
+
+
+font family :- Edu Australia VIC WA NT Hand Dots
+
+
+react-responsive-carousel
+
+
+Egyptian League 233
+Egyption Super Cup 539
+Egyption Cup 714
+CAF Super Cup 533
+CAF Champions League 12
